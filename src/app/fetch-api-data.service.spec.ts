@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 
-import { FetchApiDatService } from './fetch-api-dat.service';
+import { FetchApiDatService } from './fetch-api-data.service';
 
 describe('FetchApiDatService', () => {
   let service: FetchApiDatService;
